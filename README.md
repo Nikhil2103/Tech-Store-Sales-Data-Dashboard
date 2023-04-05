@@ -1,4 +1,7 @@
 # Tech-Store-Sales-Data-Dashboard
+
+Dataset Used: https://www.kaggle.com/datasets/knightbearr/sales-product-data
+
 Power BI Dashboard
 
 This Power BI dashboard gives an overview of the sale of items from a tech store.
